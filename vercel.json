@@ -1,0 +1,11 @@
+{
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://admjodntpfgrgpcxqemu.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_LjK2qMjHAzzdKn_mZWsAvw_MmK5d21X",
+    "SUPABASE_SERVICE_ROLE_KEY": "sb_secret_n7tgXPz81QIegKSi8XVJ4g_EbnydCG4",
+    "VITE_SUPABASE_URL": "https://admjodntpfgrgpcxqemu.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "sb_publishable_LjK2qMjHAzzdKn_mZWsAvw_MmK5d21X",
+    "VITE_GOOGLE_CLIENT_ID": "1065078894672-rmp5kp8vfjns5rn9kp5psfp16g691043.apps.googleusercontent.com",
+    "VITE_GOOGLE_AUTH_PROXY": "https://designarena.ai/auth/google/callback"
+  }
+}

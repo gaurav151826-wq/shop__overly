@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .font-serif {
+    font-family: "Georgia", serif;
+  }
+}
+
+.cart-open {
+  overflow: hidden;
+}
+
